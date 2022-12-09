@@ -1,0 +1,15 @@
+/Users/zainmohammed/Projects/sha2/sha2/bin/Debug/net6.0/sha2
+/Users/zainmohammed/Projects/sha2/sha2/bin/Debug/net6.0/sha2.deps.json
+/Users/zainmohammed/Projects/sha2/sha2/bin/Debug/net6.0/sha2.runtimeconfig.json
+/Users/zainmohammed/Projects/sha2/sha2/bin/Debug/net6.0/sha2.dll
+/Users/zainmohammed/Projects/sha2/sha2/bin/Debug/net6.0/sha2.pdb
+/Users/zainmohammed/Projects/sha2/sha2/obj/Debug/net6.0/sha2.csproj.AssemblyReference.cache
+/Users/zainmohammed/Projects/sha2/sha2/obj/Debug/net6.0/sha2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zainmohammed/Projects/sha2/sha2/obj/Debug/net6.0/sha2.AssemblyInfoInputs.cache
+/Users/zainmohammed/Projects/sha2/sha2/obj/Debug/net6.0/sha2.AssemblyInfo.cs
+/Users/zainmohammed/Projects/sha2/sha2/obj/Debug/net6.0/sha2.csproj.CoreCompileInputs.cache
+/Users/zainmohammed/Projects/sha2/sha2/obj/Debug/net6.0/sha2.dll
+/Users/zainmohammed/Projects/sha2/sha2/obj/Debug/net6.0/refint/sha2.dll
+/Users/zainmohammed/Projects/sha2/sha2/obj/Debug/net6.0/sha2.pdb
+/Users/zainmohammed/Projects/sha2/sha2/obj/Debug/net6.0/sha2.genruntimeconfig.cache
+/Users/zainmohammed/Projects/sha2/sha2/obj/Debug/net6.0/ref/sha2.dll
